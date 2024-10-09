@@ -1,5 +1,5 @@
 <?php
-
+date_default_timezone_set('Europe/Prague');
 echo "Hello world" . "<br><br>";
 
 echo " <b> Aktuální datum a čas je: </b>" . "<br>";
